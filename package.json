@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "lax.js": "^2.0.3"
+  }
+}
